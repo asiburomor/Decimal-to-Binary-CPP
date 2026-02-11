@@ -12,7 +12,7 @@ In computer science, understanding how data is represented at the hardware level
 ## 🛠️ Technical Stack
 * **Language:** C++
 * **Logic:** Base-conversion algorithm, loop structures, and string manipulation.
-* **Development Environment:** [Add your IDE here, e.g., VS Code or Code::Blocks]
+* **Development Environment:** XCode.
 
 ## 📥 How to Run
 1. Ensure you have a C++ compiler installed (like `g++`).
